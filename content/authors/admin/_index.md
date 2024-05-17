@@ -22,9 +22,10 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tongji University
+  - name: School of Autonotive Studies 
   - name: Institute of Intelligent Vehicles 
     # url: https://www.stanford.edu/
-  - email: "Email: zrli_96@163.com"
+  - name: "Email: zrli_96@163.com"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include safe learning for decision-making and control of autonoumous driving.
 

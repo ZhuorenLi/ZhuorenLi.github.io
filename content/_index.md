@@ -96,7 +96,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: projects
+    id: post
     content:
       title: Research Experiences
       subtitle: ''
@@ -106,7 +106,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - projects
+          - post
         author: ""
         category: ""
         tag: ""

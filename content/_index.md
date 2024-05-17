@@ -69,7 +69,7 @@ sections:
           company_url: ''
           # company_logo: org-gc
           location: California
-          date_start: "2020-09"
+          date_start: '2020-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -82,8 +82,8 @@ sections:
           company_url: ''
           # company_logo: org-x
           location: California
-          date_start: "2010-01"
-          date_end: "2022-12"
+          date_start: '2010-01-01'
+          date_end: '2022-12-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'

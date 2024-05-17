@@ -80,9 +80,9 @@ sections:
           # description: |2-
           #     # Responsibilities include:
           description: |2-
-          # Responsibilities include:
-            * Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
-            * Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
+            # Responsibilities include:
+              * Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
+              * Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
           # description: Taught electronic engineering and researched semiconductor physics.
         
         - title: Optimization-based Motion Planning

@@ -22,8 +22,9 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tongji University
+  - name: Institute of Intelligent Vehicles 
     # url: https://www.stanford.edu/
-
+  - email: "Email: zrli_96@163.com"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include safe learning for decision-making and control of autonoumous driving.
 
@@ -121,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Greetings! I am Zhuoren Li. I'm a Ph.D. at Tongji University, affiliated with the Institute of Intelligent Vehicles(TJIIV). , I'm directly pursuing the Ph.D. degree under the supervision of [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University I also have the privilege of working with [Prof. Jia Hu](https://scholar.google.com.hk/citations?user=a34GvQoAAAAJ).
 {style="text-align: justify;"}

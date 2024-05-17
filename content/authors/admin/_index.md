@@ -22,7 +22,7 @@ role: Ph.D. Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Tongji University, Shanghai, China
-  - name: School of Autonotive Studies 
+  - name: School of Automotive Studies 
   - name: Institute of Intelligent Vehicles 
     # url: https://www.stanford.edu/
   - name: "Email: zrli_96@163.com"

@@ -1,5 +1,5 @@
 ---
-title: Blog with Jupyter Notebooks!
+title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
 date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---

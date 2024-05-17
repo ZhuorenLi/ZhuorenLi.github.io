@@ -54,7 +54,7 @@ sections:
   #     columns: '1'
   - block: Experience
     content:
-      title: Research Experience
+      title: Project Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -64,11 +64,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Safe Reinforcement Learning for Autonomous Driving
+        - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
+          company: National Natural Science Foundation of China
           company_url: ''
-          date_start: '2021-09-01'
-          date_end: ''
+          date_start: '2024-01-01'
+          date_end: '2027-12-01'
           description: |2-
+            "Role: "
             * Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
             * Safe driving policy generation with soft constraint by multi-cost critic network design.
             * Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.

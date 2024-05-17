@@ -1,6 +1,7 @@
 ---
 title: Safe Reinforcement Learning for Autonomous Driving
 # date: '2023-09-01'
+date_format: Jan 2006
 date_start: '2022-09-01'
 date_end: ''
 # summary: from 2021.09 - Now
@@ -12,9 +13,7 @@ from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ``` -->
 
-    
-<!-- ![png](SRL-Framework.png) -->
-    
+<!-- ![png](SRL-Framework.png) -->    
 
 ```python
 print("Welcome to Academic!")

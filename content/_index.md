@@ -78,7 +78,7 @@ sections:
           company_url: ''
           # company_logo: org-gc
           # location: California
-          date_start: '2021-09-01'
+          date_start: '2021-03-01'
           date_end: ''
           # description: |2-
           #     # Responsibilities include:
@@ -93,8 +93,10 @@ sections:
           # company_logo: org-x
           # location: California
           date_start: '2020-09-01'
-          date_end: '2023-12-01'
-          description: Generate safe and stable control commands of vehicle motion based on Model Predictive Control.
+          date_end: '2023-06-01'
+          description: |2-
+            * Generate safe and stable control commands of vehicle motion based on Model Predictive Control.
+            * Oscillation-free Integrated decision-making and motion planning under Uncertainty.
         
         - title: Path Planning and Tracking Control for Autonomous Parking
           # company: University X
@@ -102,8 +104,10 @@ sections:
           # company_logo: org-x
           # location: California
           date_start: '2019-12-01'
-          date_end: '2022-03-01'
-          description: According to the parking slot points perception information, design a smooth path for automated parking system with geometric curves and a Stanley tracking algorithm with curvature feedforward.
+          date_end: '2020-12-01'
+          description: |2-
+            * Smooth path planner with geometric curves for automated parking system according to the parking slot points perception information.
+            * Stanley tracking control with curvature feedforward.
     design:
       columns: '2'
   # - block: accomplishments

@@ -15,21 +15,15 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 
 <!-- ![png](SRL-Framework.png) -->    
 
-```python
-print("Welcome to Academic!")
-```
+## Limitation in Safety Performance
 
-    Welcome to Academic!
-
-## Organize your notebooks
-
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 
 ## Import the notebooks into your site
 
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
+We map the decision action to the trajectory layer via a polynomial curve-based trajectory planner, which is combined with the predicted trajectories of surrounding vehicles to evaluate the future risk and correct the unsafe action.
 
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+**Published paper:**
+Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
+**Paper in Preparing:**
+Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al. Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better. (Preparing to submit IEEE Trans. Transp. Electrif.)

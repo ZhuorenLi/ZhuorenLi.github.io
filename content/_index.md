@@ -174,8 +174,8 @@ sections:
         - title: Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
           company: Shanghai Research Institute for Intelligent Autonomous Systems
           location: 'Role: Student Technical Director'
-          date_start: '2021-9-01'
-          date_end: '2022-8-01'
+          date_start: '2021-09-01'
+          date_end: '2022-08-01'
           description: |2-
             Responsibilities include:
             * Overall task manage.
@@ -184,8 +184,8 @@ sections:
         - title: Autonomous Valet Parking (AVP) System Development
           company: Nanchang Automotive Institute of Intelligence & New Energy
           location: 'Role: Student Technical Director'
-          date_start: '2021-9-01'
-          date_end: '2023-3-01'
+          date_start: '2021-09-01'
+          date_end: '2023-03-01'
           description: |2-
             Responsibilities include:
             * Overall task manage.
@@ -195,8 +195,8 @@ sections:
         - title: Development and Application of Automatic Valet Parking System
           company: Nanchang Automotive Institute of Intelligence & New Energy
           location: 'Role: Student Technical Director'
-          date_start: '2020-3-01'
-          date_end: '2021-3-01'
+          date_start: '2020-03-01'
+          date_end: '2021-03-01'
           description: |2-
             Responsibilities include:
             * Overall task manage.
@@ -206,7 +206,7 @@ sections:
         - title: China Future Challenge of Intelligent Vehicles
           company: Institute of Intelligent Vehicles, Tongji University
           location: 'Role: Major developer'
-          date_start: '2020-3-01'
+          date_start: '2020-03-01'
           date_end: '2020-11-01'
           description: |2-
             Responsibilities include:

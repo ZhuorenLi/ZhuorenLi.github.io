@@ -64,14 +64,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: Safe Reinforcement Learning for Autonomous Driving
-        #   company_url: ''
-        #   date_start: '2021-09-01'
-        #   date_end: ''
-        #   description: |
-        #   ### Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
-        #   ### Safe driving policy generation with soft constraint by multi-cost critic network design.
-        #   ### Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.
+        - title: Safe Reinforcement Learning for Autonomous Driving
+          company_url: ''
+          date_start: '2021-09-01'
+          date_end: ''
+          description: 
+          Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
+          Safe driving policy generation with soft constraint by multi-cost critic network design.
+          Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.
    
         - title: Reinforcement Learning for Smooth Trajectory Planning
           # company: GenCoin
@@ -83,8 +83,9 @@ sections:
           # description: |2-
           #     # Responsibilities include:
           description: |2-
-          #### Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
-          #### Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
+          # Responsibilities include:
+            * Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
+            * Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
           # description: Taught electronic engineering and researched semiconductor physics.
         
         - title: Optimization-based Motion Planning

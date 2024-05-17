@@ -91,16 +91,16 @@ sections:
           # location: California
           date_start: '2020-09-01'
           date_end: '2023-12-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Generate.
         
         - title: Path Planning and Tracking Control for Autonomous Parking
           # company: University X
           company_url: ''
           # company_logo: org-x
           # location: California
-          date_start: 2019-12-01'
+          date_start: '2019-12-01'
           date_end: '2022-03-01'
-          description: According to the parking slot points perception information, designing a smooth path for automated parking system with geometric curves and a Stanley tracking algorithm with curvature feedforward.
+          description: According to the parking slot points perception information, design a smooth path for automated parking system with geometric curves and a Stanley tracking algorithm with curvature feedforward.
     design:
       columns: '2'
   # - block: accomplishments

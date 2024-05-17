@@ -66,7 +66,8 @@ sections:
       items:
         - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
           company: National Natural Science Foundation of China
-          company_url: 'Role: Student Technical Director'
+          company_url: ''
+          location: 'Role: Student Technical Director'
           date_start: '2024-01-01'
           date_end: '2027-12-01'
           description: |2-

@@ -69,9 +69,9 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: 
-          Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
-          Safe driving policy generation with soft constraint by multi-cost critic network design.
-          Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.
+          - Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
+          - Safe driving policy generation with soft constraint by multi-cost critic network design.
+          - Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.
    
         - title: Reinforcement Learning for Smooth Trajectory Planning
           # company: GenCoin

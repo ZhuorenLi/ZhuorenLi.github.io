@@ -52,9 +52,9 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: Experience
+  - block: Research Experience
     content:
-      title: Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

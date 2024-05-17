@@ -52,7 +52,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: Research Experience
+  - block: ResearchExperience
     content:
       title: Experience
       # Date format for experience

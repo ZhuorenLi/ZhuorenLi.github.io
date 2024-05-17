@@ -77,12 +77,11 @@ sections:
           # location: California
           date_start: '2021-09-01'
           date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              # Responsibilities include:
+              * Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
+              * Modelling
+          # description: Taught electronic engineering and researched semiconductor physics.
         
         - title: Optimization-based Motion Planning
           # company: University X
@@ -91,7 +90,7 @@ sections:
           # location: California
           date_start: '2020-09-01'
           date_end: '2023-12-01'
-          description: Generate.
+          description: Generate safe and stable control commands of vehicle motion based on Model Predictive Control.
         
         - title: Path Planning and Tracking Control for Autonomous Parking
           # company: University X

@@ -68,7 +68,7 @@ sections:
           company_url: ''
           date_start: '2021-09-01'
           date_end: ''
-          description: Anticipated risk evaluation of the RL actions
+          description: Anticipated risk evaluation of the RL actions, Guiding safe policy generation with virtual dangerous experiences and safe demonstraions,  
           
         - title: Reinforcement Learning for Smooth Trajectory Planning
           # company: GenCoin
@@ -80,8 +80,8 @@ sections:
           # description: |2-
           #     # Responsibilities include:
           description: |2-
-            # Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
-            # Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
+            ### Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
+            ### Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
           # description: Taught electronic engineering and researched semiconductor physics.
         
         - title: Optimization-based Motion Planning

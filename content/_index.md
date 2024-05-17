@@ -162,8 +162,6 @@ sections:
         
         - title: Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
           company: Shanghai Automotive Industry Science and Technology Development Foundation
-          company_url: ''
-          # company_logo: org-x
           location: 'Role: Student Technical Director'
           date_start: '2023-01-01'
           date_end: '2024-06-01'
@@ -173,16 +171,49 @@ sections:
             * Devolopment of motion control algorithm emergency collision avoidance.
             * Simulation validation, real vehicle modification and test.
         
-        - title: Path Planning and Tracking Control for Autonomous Parking
-          # company: University X
-          company_url: ''
-          # company_logo: org-x
-          # location: California
-          date_start: '2019-12-01'
-          date_end: '2020-12-01'
+        - title: Research on Vehicle-Road Cooperative Control for Intelligent Public Transportation System
+          company: Shanghai Research Institute for Intelligent Autonomous Systems
+          location: 'Role: Student Technical Director'
+          date_start: '2021-9-01'
+          date_end: '2022-8-01'
           description: |2-
-            * Smooth path planner with geometric curves for automated parking system according to the parking slot points perception information.
-            * Stanley tracking control with curvature feedforward.
+            Responsibilities include:
+            * Overall task manage.
+            * Vehicle speed planning according to the traffic signal optimization.
+
+        - title: Autonomous Valet Parking (AVP) System Development
+          company: Nanchang Automotive Institute of Intelligence & New Energy
+          location: 'Role: Student Technical Director'
+          date_start: '2021-9-01'
+          date_end: '2023-3-01'
+          description: |2-
+            Responsibilities include:
+            * Overall task manage.
+            * Development of Parking slot allocation.
+            * Parking path planning and tracking control.
+        
+        - title: Development and Application of Automatic Valet Parking System
+          company: Nanchang Automotive Institute of Intelligence & New Energy
+          location: 'Role: Student Technical Director'
+          date_start: '2020-3-01'
+          date_end: '2021-3-01'
+          description: |2-
+            Responsibilities include:
+            * Overall task manage.
+            * Hardware and software communication systems.
+            * Development of Parking path planning algorithm.
+            * Development of tracking control algorithm.
+        - title: China Future Challenge of Intelligent Vehicles
+          company: Institute of Intelligent Vehicles, Tongji University
+          location: 'Role: Major developer'
+          date_start: '2020-3-01'
+          date_end: '2020-11-01'
+          description: |2-
+            Responsibilities include:
+            * System framework development of planning algorithm.
+            * Avoidance path planning for static obstacle.
+            * Parking path planning.
+
     design:
       columns: '2'
   # - block: portfolio

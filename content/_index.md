@@ -68,7 +68,7 @@ sections:
           company_url: ''
           date_start: '2021-09-01'
           date_end: ''
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Anticipated risk evaluation of the RL actions
           
         - title: Reinforcement Learning for Smooth Trajectory Planning
           # company: GenCoin
@@ -79,9 +79,9 @@ sections:
           date_end: ''
           # description: |2-
           #     # Responsibilities include:
-          description:
-              \blacksquare Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
-              \blacksquare Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
+          description: |2-
+            # Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
+            # Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
           # description: Taught electronic engineering and researched semiconductor physics.
         
         - title: Optimization-based Motion Planning

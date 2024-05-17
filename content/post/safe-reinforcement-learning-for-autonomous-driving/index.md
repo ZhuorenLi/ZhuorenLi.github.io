@@ -13,7 +13,7 @@ from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ``` -->
 
-![png](SRL-Framework.png)    
+<!-- ![png](SRL-Framework.png)     -->
 
 ## Limitation in Safety Performance
 
@@ -25,5 +25,6 @@ We map the decision action to the trajectory layer via a polynomial curve-based 
 
 **Published paper:**
 Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
+
 **Paper in Preparing:**
 Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al. Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better. (Preparing to submit IEEE Trans. Transp. Electrif.)

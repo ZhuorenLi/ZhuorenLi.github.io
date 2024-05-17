@@ -1,7 +1,7 @@
 ---
-title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Safe Reinforcement Learning for Autonomous Driving
+# date: '2023-11-04'
+summary: from 2021.09 - Now
 ---
 
 
@@ -11,7 +11,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ```
 
     
-![png](output_1_0.png)
+<!-- ![png](SRL-Framework.png) -->
     
 
 ```python

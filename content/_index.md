@@ -52,67 +52,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: Experience
-    content:
-      title: Project Experiences
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
-          company: National Natural Science Foundation of China
-          company_url: ''
-          location: 'Role: Student Technical Director'
-          date_start: '2024-01-01'
-          date_end: '2027-12-01'
-          description: |2-
-            Role: Student Technical Director
-            * Safe driving policy generation with hard constraint according to the anticipated risk evaluation of the RL actions.
-            * Safe driving policy generation with soft constraint by multi-cost critic network design.
-            * Safe enhancement with various momory including virtual dangerous experiences and safe demonstraions.
-   
-        - title: Reinforcement Learning for Smooth Trajectory Planning
-          # company: GenCoin
-          company_url: ''
-          # company_logo: org-gc
-          # location: California
-          date_start: '2021-03-01'
-          date_end: ''
-          # description: |2-
-          #     # Responsibilities include:
-          description: |2-
-            * Hybrid Hierarchical RL to simultaneously generate discrete and continuous trajectory parameter actions, including long-term lateral lanechange behavior goal and short-term longitudinal control command.
-            * Generate the motion trajectory based on the RL output actions of lane-change target point using polynomial curve.
-          # description: Taught electronic engineering and researched semiconductor physics.
-        
-        - title: Optimization-based Motion Planning
-          # company: University X
-          company_url: ''
-          # company_logo: org-x
-          # location: California
-          date_start: '2020-09-01'
-          date_end: '2023-06-01'
-          description: |2-
-            * Generate safe and stable control commands of vehicle motion based on Model Predictive Control.
-            * Oscillation-free Integrated decision-making and motion planning under Uncertainty.
-        
-        - title: Path Planning and Tracking Control for Autonomous Parking
-          # company: University X
-          company_url: ''
-          # company_logo: org-x
-          # location: California
-          date_start: '2019-12-01'
-          date_end: '2020-12-01'
-          description: |2-
-            * Smooth path planner with geometric curves for automated parking system according to the parking slot points perception information.
-            * Stanley tracking control with curvature feedforward.
-    design:
-      columns: '2'
+  
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -158,7 +98,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Projects
+      title: Research Experiences
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -181,6 +121,69 @@ sections:
     design:
       # Choose a layout view
       view: compact
+      columns: '2'
+  - block: Experience
+    content:
+      title: Project Experiences
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
+          company: National Natural Science Foundation of China
+          company_url: ''
+          location: 'Role: Student Technical Director'
+          date_start: '2024-01-01'
+          date_end: '2027-12-01'
+          description: |2-
+            Responsibilities include:
+            * Overall task manage.
+            * Multi-component coupled environmental risk characterization.
+            * Motion Planning for Mixed Steering Vehicles.
+   
+        - title: Binary mixed traffic behavior characteristics and collaborative paradigm
+          company: Science and Technology Commission of Shanghai
+          company_url: ''
+          # company_logo: org-gc
+          location: 'Role: Student Technical Director of Subproject'
+          date_start: '2021-08-01'
+          date_end: '2024-07-30'
+          # description: |2-
+          #     # Responsibilities include:
+          description: |2-
+            Responsibilities include:
+            * Motion planning and control of connected automated vehicle according to the road-side guidance.
+          # description: Taught electronic engineering and researched semiconductor physics.
+        
+        - title: Development of Evasion Assistance Algorithm for Emergency Collision Avoidance based on Steer-by-Wire System
+          company: Shanghai Automotive Industry Science and Technology Development Foundation
+          company_url: ''
+          # company_logo: org-x
+          location: 'Role: Student Technical Director'
+          date_start: '2023-01-01'
+          date_end: '2024-06-01'
+          description: |2-
+            Responsibilities include:
+            * Overall task manage.
+            * Devolopment of motion control algorithm emergency collision avoidance.
+            * Simulation validation, real vehicle modification and test.
+        
+        - title: Path Planning and Tracking Control for Autonomous Parking
+          # company: University X
+          company_url: ''
+          # company_logo: org-x
+          # location: California
+          date_start: '2019-12-01'
+          date_end: '2020-12-01'
+          description: |2-
+            * Smooth path planner with geometric curves for automated parking system according to the parking slot points perception information.
+            * Stanley tracking control with curvature feedforward.
+    design:
       columns: '2'
   # - block: portfolio
   #   id: projects

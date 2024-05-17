@@ -21,17 +21,18 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tongji University
+  - name: Tongji University, Shanghai, China
   - name: School of Autonotive Studies 
   - name: Institute of Intelligent Vehicles 
     # url: https://www.stanford.edu/
   - name: "Email: zrli_96@163.com"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include safe learning for decision-making and control of autonoumous driving.
+bio: Interest in safe learning for decision-making and control of autonoumous driving.
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning
+  - Autonomous Driving
+  - Safe Reinforcement Learning
   - Behavior Interaction
   - Risk Evaluation
 
@@ -40,11 +41,13 @@ education:
   courses:
     - course: Ph.D. Student in School of Automotive Studies
       institution: Tongji University
-      # year: 2012
+      year: "2019-now"
     - course: B.E. in Engineering Mechanics
       institution: Tongji University
-      year: 2019
-
+      year: "2014-2019"
+    - course: German Enhancement Class in School of Foreign Studies
+      institution: Tongji University
+      year: "2017-2018"
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,11 +120,12 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Zhuoren_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Greetings! I am Zhuoren Li. I'm a Ph.D. at Tongji University, affiliated with the Institute of Intelligent Vehicles(TJIIV). , I'm directly pursuing the Ph.D. degree under the supervision of [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University I also have the privilege of working with [Prof. Jia Hu](https://scholar.google.com.hk/citations?user=a34GvQoAAAAJ).
+Greetings! I am Zhuoren Li. I'm a Ph.D. at Tongji University, affiliated with the Institute of Intelligent Vehicles(TJIIV). , I'm directly pursuing the Ph.D. degree under the supervision of [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1153/6446.htm) after obtaining my bachelor's degree in Engineering Mechanics from Tongji University. I also have the privilege of working with [Prof. Jia Hu](https://scholar.google.com.hk/citations?user=a34GvQoAAAAJ).
+From 2020 to now, I am the Student Director of the Decision and Control Research Group, including 7 Ph.D. students and 13 graduated students. I has been leading research on safe reinforcement learning, motion planning in unstructured environments, and tracking control, as well as more than 7 projects from the government and industry.
 {style="text-align: justify;"}

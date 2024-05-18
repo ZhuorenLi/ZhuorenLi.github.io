@@ -1,6 +1,6 @@
 ---
-title: Safe Reinforcement Learning for Autonomous Driving
-date: '2023-09-01'
+title: Reinforcement Learning for Smooth Motion Planning
+date: '2021-06-01'
 # date_format: Jan 2006
 # date_start: '2022-09-01'
 # date_end: ''
@@ -23,11 +23,6 @@ Deep reinforcement learning (DRL) has become a powerful method for autonomous dr
 - Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.
 - Dangerous action will be prevented and the dangerous virtual experiences are recoreded to gain various valuable experience data.
 - Dangerous experiences are sampled with priority weight according their anticipated risk, enabling DRL agnet to learn a safer policy.
-
-## **Current Work**
-- Combination hard-constraints and soft-constraints in safe policy training.
-- A learnable evaluation module to predict the anticipated risk.
-- Considering interaction features in critic network design based on Game-Theory.
 
 ## **Published paper:**
 1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.

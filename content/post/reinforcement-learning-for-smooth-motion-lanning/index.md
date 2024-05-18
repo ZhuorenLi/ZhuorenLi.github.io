@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning for Smooth Motion Planning
+title: Deep Reinforcement Learning for Smooth Motion Planning
 date: '2024-05-01'
 # date_format: Jan 2006
 # date_start: '2022-09-01'

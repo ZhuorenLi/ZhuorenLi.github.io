@@ -124,6 +124,7 @@ sections:
       columns: '2'
   - block: Experience
     content:
+      id: projects
       title: Project Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -265,6 +266,7 @@ sections:
   - block: collection
     content:
       title: Main Publications
+      id: mainpub
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -277,7 +279,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: pubinpre
     content:
       title: Papaer in Preparation
       filters:

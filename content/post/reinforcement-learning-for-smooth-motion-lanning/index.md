@@ -16,17 +16,17 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 <!-- ![png](SRL-Framework.png)     -->
 
 ## **Motivation**
-**Limitation in Safety Performance**
-Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+**DRL directly control in stable and smooth performance**
+- The output commands are easy to change continuously whent DRL agent directly generates the control command.
+- The control commands generated in real-time are prone to sudden changes in dynamically changing environments due to the lack of long-term motion planning.
 
 ## **Highlights**
-- Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.
-- Dangerous action will be prevented and the dangerous virtual experiences are recoreded to gain various valuable experience data.
-- Dangerous experiences are sampled with priority weight according their anticipated risk, enabling DRL agnet to learn a safer policy.
+- Proposes a stability enhanced hierarchical reinforcement learning framework to achieve smooth and flexible driving behavior in dynamic traffic environment.
+- Enables RL agent to participate in trajectory generation, where the trajectory parameter action is used to generate future motion path that adapt to various scenes.
+- Realizes hybrid action output based on parameterized action space, hence the discrete and continuous actions have the optimal consistency.
 
-## **Published paper:**
-1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.
+<!-- ## **Published paper:**
+1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319. -->
 
 ## **Paper in Preparation:**
-1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al. Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better. (Preparing to submit IEEE Trans. Transp. Electrif.)
-2. Ruolin Yang, Zhuoren Li, Bo Leng, et.al. Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way. (under review of IEEE Trans. Intell. Vehicles)
+1. Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, "Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action." (under review in IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2024.)

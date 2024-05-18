@@ -96,7 +96,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
-    id: post
+    id: researchexp
     content:
       title: Research Experiences
       subtitle: ''

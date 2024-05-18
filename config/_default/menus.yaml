@@ -16,7 +16,7 @@ main:
   - name: Main Publications
     url: '#mainpub'
     weight: 40
-  - name: Publications in Preparing
+  - name: Papaer in Preparation
     url: '#pubinpre'
     weight: 50
   # - name: Contact
@@ -27,5 +27,5 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
 #    url: uploads/resume.pdf
-    url: uploads/pdfZhuoren_CV.pdf
+    url: uploads/Zhuoren_CV.pdf
     weight: 70

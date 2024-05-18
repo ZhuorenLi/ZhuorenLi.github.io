@@ -1,6 +1,6 @@
 ---
 title: Reinforcement Learning for Smooth Motion Planning
-date: '2021-06-01'
+date: '2024-05-01'
 # date_format: Jan 2006
 # date_start: '2022-09-01'
 # date_end: ''

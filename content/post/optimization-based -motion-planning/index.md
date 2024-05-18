@@ -1,5 +1,5 @@
 ---
-title: Safe Reinforcement Learning for Autonomous Driving
+title: Optimization-based Motion Planning
 date: '2023-06-01'
 # date_format: Jan 2006
 # date_start: '2022-09-01'
@@ -12,6 +12,8 @@ date: '2023-06-01'
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ``` -->
+Smooth, stable and fast motion planning based on optimization-based approaches.
+
 # Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability 
 ![png](pomdpframe.png)    
  

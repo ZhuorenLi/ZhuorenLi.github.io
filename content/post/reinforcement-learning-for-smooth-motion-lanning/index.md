@@ -7,13 +7,7 @@ date: '2024-05-01'
 # summary: from 2021.09 - Now
 ---
 
-<!-- code mode
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-``` -->
-
-<!-- ![png](SRL-Framework.png)     -->
+Deep reinforcement learning using parameterized trajectory action, for flexible and smooth motion in complex environment.
 
 ## **Motivation**
 **DRL directly control in stable and smooth performance**

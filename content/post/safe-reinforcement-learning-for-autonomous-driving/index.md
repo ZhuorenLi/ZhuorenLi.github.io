@@ -9,6 +9,12 @@ date: '2024-03-01'
 
 Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing.
 
+
+
+
+
+
+
 ## **Motivation**
 **Limitation in Safety Performance**
 Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
@@ -18,7 +24,7 @@ Deep reinforcement learning (DRL) has become a powerful method for autonomous dr
 - Dangerous action will be prevented and the dangerous virtual experiences are recoreded to gain various valuable experience data.
 - Dangerous experiences are sampled with priority weight according their anticipated risk, enabling DRL agnet to learn a safer policy.
 
-## **Current Work**
+# Current Work
 - Combination hard-constraints and soft-constraints in safe policy training.
 - A learnable evaluation module to predict the anticipated risk.
 - Considering interaction features in critic network design based on Game-Theory.

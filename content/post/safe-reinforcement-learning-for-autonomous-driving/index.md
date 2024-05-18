@@ -15,13 +15,14 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 
 <!-- ![png](SRL-Framework.png)     -->
 
-## Limitation in Safety Performance
+## Motivation 
+**Limitation in Safety Performance**
 
 Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 
-## Import the notebooks into your site
+## Highlights
 
-We map the decision action to the trajectory layer via a polynomial curve-based trajectory planner, which is combined with the predicted trajectories of surrounding vehicles to evaluate the future risk and correct the unsafe action.
+-We map the decision action to the trajectory layer via a polynomial curve-based trajectory planner, which is combined with the predicted trajectories of surrounding vehicles to evaluate the future risk.
 
 **Published paper:**
 Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319.

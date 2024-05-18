@@ -28,4 +28,4 @@ main:
   - name: CV
 #    url: uploads/resume.pdf
     url: uploads/Zhuoren_CV.pdf
-    weight: 70
+    weight: 60

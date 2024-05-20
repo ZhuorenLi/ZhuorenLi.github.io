@@ -124,7 +124,7 @@ sections:
       columns: '2'
   - block: Experience
     content:
-      id: projects
+      id: projectex
       title: Project Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -287,7 +287,8 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      # view: compact
+      view: citation
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics

@@ -273,18 +273,18 @@ sections:
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - mainpublication
         exclude_featured: true
     design:
       columns: '2'
       view: citation
   - block: collection
-    id: pubinpre
+    id: paperinpre
     content:
       title: Paper in Preparation
       filters:
         folders:
-          - event
+          - papaerinpre
     design:
       columns: '2'
       # view: compact

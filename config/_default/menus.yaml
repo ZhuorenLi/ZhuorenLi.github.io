@@ -17,7 +17,7 @@ main:
     url: '#mainpub'
     weight: 40
   - name: Paper in Preparation
-    url: '#pubinpre'
+    url: '#paperinpre'
     weight: 50
   # - name: Contact
   #   url: '#contact'

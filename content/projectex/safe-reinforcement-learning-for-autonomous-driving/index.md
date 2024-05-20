@@ -1,6 +1,6 @@
 ---
-title: Safe Reinforcement Learning for Autonomous Driving
-date: "2024-03-01"
+title: Safe Reinforcement Learning for Autonomous Driving (from Sep. 2022 to now)
+date: "2024-06-01"
 # date_format: Jan 2006
 # date_start: '2022-09-01'
 # date_end: ''
@@ -26,7 +26,7 @@ image:
 ---
 
 
-
+# Safe Reinforcement Learning with risk evaluation and dangerous momry enhancement
 ## **Motivation**
 **Limitation in Safety Performance:** Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 

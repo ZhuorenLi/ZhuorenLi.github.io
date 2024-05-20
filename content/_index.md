@@ -106,7 +106,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - postpj
         author: ""
         category: ""
         tag: ""
@@ -281,7 +281,7 @@ sections:
   - block: collection
     id: pubinpre
     content:
-      title: Papaer in Preparation
+      title: Paper in Preparation
       filters:
         folders:
           - event

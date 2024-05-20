@@ -11,10 +11,10 @@ main:
     url: '#researchexp'
     weight: 20
   - name: Projects
-    url: '#projectex'
+    url: '#projects'
     weight: 30
   - name: Main Publications
-    url: '#mainpublications'
+    url: '#mainpublication'
     weight: 40
   - name: Paper in Preparation
     url: '#paperinpre'

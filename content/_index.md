@@ -143,7 +143,7 @@ sections:
           date_end: '2027-12-01'
           description: |2-
             Responsibilities include:
-            * Overall task manage.
+            * Overall task management.
             * Multi-component coupled environmental risk characterization.
             * Motion Planning for Mixed Steering Vehicles.
    
@@ -168,7 +168,7 @@ sections:
           date_end: '2024-06-01'
           description: |2-
             Responsibilities include:
-            * Overall task manage.
+            * Overall task management.
             * Devolopment of motion control algorithm emergency collision avoidance.
             * Simulation validation, real vehicle modification and test.
         
@@ -179,7 +179,7 @@ sections:
           date_end: '2022-08-01'
           description: |2-
             Responsibilities include:
-            * Overall task manage.
+            * Overall task management.
             * Vehicle speed planning according to the traffic signal optimization.
 
         - title: Autonomous Valet Parking (AVP) System Development
@@ -189,7 +189,7 @@ sections:
           date_end: '2023-03-01'
           description: |2-
             Responsibilities include:
-            * Overall task manage.
+            * Overall task management.
             * Development of Parking slot allocation.
             * Parking path planning and tracking control.
         
@@ -200,7 +200,7 @@ sections:
           date_end: '2021-03-01'
           description: |2-
             Responsibilities include:
-            * Overall task manage.
+            * Overall task management.
             * Hardware and software communication systems.
             * Development of Parking path planning algorithm.
             * Development of tracking control algorithm.

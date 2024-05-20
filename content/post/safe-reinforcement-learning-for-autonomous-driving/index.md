@@ -9,13 +9,7 @@ date: '2024-03-01'
 
 Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing.
 
-
-
-
-
-
-
-## **Motivation**
+## **Motivation:**
 **Limitation in Safety Performance**
 Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 

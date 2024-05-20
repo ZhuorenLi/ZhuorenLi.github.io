@@ -16,7 +16,7 @@ main:
   - name: Main Publications
     url: '#mainpub'
     weight: 40
-  - name: Papaer in Preparation
+  - name: Paper in Preparation
     url: '#pubinpre'
     weight: 50
   # - name: Contact

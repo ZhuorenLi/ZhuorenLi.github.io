@@ -28,6 +28,9 @@ Smooth, stable and fast motion planning based on optimization-based approaches.
 - Able to accelerate computation efficiency by building a state transfer model based on prediction uncertainty
 - ble to reduce the dissonance between decision-making and motion planning.
 
+![png](corridor.png)   
+
+
 # A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC 
 
 ## **Highlights**

@@ -125,7 +125,7 @@ sections:
   - block: Experience
     content:
       id: projectex
-      title: Project Experiences
+      title: Projects 
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -266,7 +266,7 @@ sections:
   - block: collection
     content:
       title: Main Publications
-      id: mainpub
+      id: mainpublications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

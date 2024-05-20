@@ -14,7 +14,7 @@ main:
     url: '#projectex'
     weight: 30
   - name: Main Publications
-    url: '#mainpub'
+    url: '#mainpublications'
     weight: 40
   - name: Paper in Preparation
     url: '#paperinpre'

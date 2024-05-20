@@ -22,14 +22,15 @@ image:
   placement: 1
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  preview_only: false 
+  preview_only: true 
 ---
 
 
 
-## **Motivation:**
-**Limitation in Safety Performance**
-Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+## **Motivation**
+**Limitation in Safety Performance:** Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+
+![png](featured.png) 
 
 ## **Highlights**
 - Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.
@@ -39,7 +40,7 @@ Deep reinforcement learning (DRL) has become a powerful method for autonomous dr
 ![png](traincurve.png) 
 ![png](testTR.png) 
 
-More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (in preparation)
+More details can be found in our recent paper "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better." (in preparation, it will come soon)
 
 # Current Work
 - Combination hard-constraints and soft-constraints in safe policy training.

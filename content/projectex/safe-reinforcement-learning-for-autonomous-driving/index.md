@@ -4,8 +4,24 @@ date: "2024-03-01"
 # date_format: Jan 2006
 # date_start: '2022-09-01'
 # date_end: ''
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+summary: Create a beautifully simple website in under 10 minutes.
+tags:
+- Reinforcement Learning
+categories:
+- Demo
 # summary: from 2021.09 - Now
 ---
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: false
+
 
 Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing.
 

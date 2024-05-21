@@ -19,7 +19,7 @@ summary: Deep reinforcement learning using parameterized trajectory action, for 
 
 ![png](featured.png)
 
-## **Highlights**
+### **Highlights**
 - Proposes a stability enhanced hierarchical reinforcement learning framework to achieve smooth and flexible driving behavior in dynamic traffic environment.
 - Enables RL agent to participate in trajectory generation, where the trajectory parameter action is used to generate future motion path that adapt to various scenes.
 - Realizes hybrid action output based on parameterized action space, hence the discrete and continuous actions have the optimal consistency.

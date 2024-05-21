@@ -30,9 +30,11 @@ image:
 Collaborating student: Ruolin Yang, Ran Yu.
 
 ### **Motivation**
-**Limitation in Safety Performance:** Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
+Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 
 ![png](featured.png) 
+
+Proposeing a safety enhanced deep reinforcement learning for autonomous motion planning in lane-changing maneuver. The goal of this work is to design a DRL motion planner, which dares to make mistakes to learn the safe driving policy faster and better.
 
 ### **Highlights**
 - Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.

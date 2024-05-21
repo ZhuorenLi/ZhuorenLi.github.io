@@ -13,9 +13,6 @@ image:
   preview_only: true 
 ---
 
-
-
-
 ## **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability** 
 
 ### **Motivation**

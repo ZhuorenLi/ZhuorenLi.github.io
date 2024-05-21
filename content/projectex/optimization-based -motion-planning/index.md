@@ -23,14 +23,15 @@ image:
 - Since there is a high-dimensional state/action modeling and the solution process considers the motion evolution of others, both POMDP and game-theory are easy to fall into the dimensionality problem, which makes the algorithm difficult to solve.
 - Most existing studies consider decision making and planning/control separately, simple decision results may not be effectively utilized by planning, which tends to make the solution process of motion planning time-consuming, or the planning unable to reach decision expectations, trajectory shaking and even solving failure in dealing with complex scenarios
 
+An integrated framework of decision-making and motion planning for autonomous driving focus on the lane change/keeping maneuvers. Firstly, we design a belief POMDP decision planner while building the uncertainty of the prediction trajectories. Through the Multi-policy forward solution, getting the optimal decision action and the corresponding future states with the consideration of the uncertainty risk for surrounding vehicles. Then, based on the decision results of lateral semantic behavior and longitudinal continuous acceleration, we build drivable corridors including the reference state and the related boundary constraints, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, we consider the vehicle dynamics and introduce some soft constraints to solve the optimal motion trajectory.
+![png](pomdpframe.png) 
+![png](corridor.png)   
+
 ### **Highlights**
 - Able to make oscillation-free behavior decisions given biased prediction.
 - Able to cut through in the traffic efficiently and safely when being in squeezed. 
 - Able to accelerate computation efficiency by building a state transfer model based on prediction uncertainty
 - ble to reduce the dissonance between decision-making and motion planning.
-
-![png](pomdpframe.png) 
-![png](corridor.png)   
 
 ### **Some Reults**
 ![png](cutinresult.png)

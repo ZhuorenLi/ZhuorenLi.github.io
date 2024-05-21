@@ -1,5 +1,5 @@
 ---
-title: Safe Reinforcement Learning for Autonomous Driving (from Sep. 2022 to now)
+title: Safe Reinforcement Learning for Autonomous Driving
 date: "2024-06-01"
 # date_format: Jan 2006
 # date_start: '2022-09-01'

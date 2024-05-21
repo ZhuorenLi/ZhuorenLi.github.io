@@ -24,6 +24,9 @@ summary: Deep reinforcement learning using parameterized trajectory action, for 
 - Enables RL agent to participate in trajectory generation, where the trajectory parameter action is used to generate future motion path that adapt to various scenes.
 - Realizes hybrid action output based on parameterized action space, hence the discrete and continuous actions have the optimal consistency.
 
+
+![png](result-RLPTA.png)
+
 <!-- ## **Published paper:**
 1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319. -->
 

@@ -1,23 +1,19 @@
 ---
 title: Optimization-based Motion Planning
 date: '2023-06-01'
-image:
-  placement: 1
-  focal_point: ""
-  preview_only: true 
+summary: Smooth, stable and fast motion planning based on optimization-based approaches.
 tags:
 - Optimization
 - Smooth Driving
 # authors:
 # - admin
-summary: Smooth, stable and fast motion planning based on optimization-based approaches.
+image:
+  placement: 1
+  focal_point: ""
+  preview_only: true 
 ---
 
-<!-- code mode
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-``` -->
+
 
 
 ## **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability** 
@@ -72,7 +68,7 @@ A unified framework of trajectory planning and tracking control for autonomous o
 ## **Published paper:**
 1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., early access, 2023.
 2. Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in Proc. IEEE Int. Intell. Transp. Syst., 2022, pp. 937-944.
-3. 
+3. Chengen Tu, Zhuoren Li, Bo Leng and Lu Xiong, "A Seamless Motion Planning Integrating Maneuver Decision Based on Hybrid Model Predictive Control," in Proc. IEEE Int. Intell. Transp. Syst., 2023.
 
 ## **Paper in Preparation:**
 1. Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., "Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.“” (Preparing to submit IEEE Trans. Transp. Electrif.)

@@ -20,7 +20,7 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ``` -->
 
 
-## Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability 
+## **Integrated Decision-making and Motion Planning to Enhance Oscilation-free Capability** 
 
 ### **Motivation**
 **Unstable and Unsmooth motion in Uncertainty Environment:**
@@ -42,16 +42,32 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 ![png](overtakeresult12.png)
 
 ## Mixed Integer Programming with Hybrid Model Predictive Control
+Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
+
+### **Motivation**
+- Try to directly integrate the semantic behavior decision, trajectroy planning and motion control into a single optimal problem.
+
+An integrated motion planning scheme for autonomous vehicles, which incorporates integer lane state and its logical constraints into the Model Predictive Control (MPC) framework, forming a hybrid MPC-based motion planning framework. 
+
+### **Highlights**
+- Motion planning without semantic decisions: a hybrid model predictive control (HMPC)-based seamless motion planner.
+- Able to integrate with external semantic decisions to achieve comprehensive optimization based on the external decisions.
+
+### **Some Results**
+![png](HMPCresult.png)
 
 
 ## Trajectory Planning and Tracking Control Based on Hierarchical MPC 
+
+A unified framework of trajectory planning and tracking control for autonomous overtaking, which is formed by hierarchical model predictive control, optimizing the lateral and longitudinal movement in two successive steps.
 
 ### **Highlights**
 - A unified trajectory planning and tracking control framework for autonomous overtaking using hierarchical MPC.
 - Safety corridor generation on ST-Graph with different behavior mode.
 
 ### **Some Reults**
-
+![png](MPC1.png)
+![png](MPC2.png)
 
 ## **Published paper:**
 1. Zhuoren Li, Jia Hu, Bo Leng, et.al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," IEEE Trans. Intell. Transp. Syst., early access, 2023.

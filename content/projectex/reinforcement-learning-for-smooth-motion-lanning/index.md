@@ -12,8 +12,9 @@ image:
 summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment.
 ---
 
-## Stability Enhanced Reinforcement Learning with Parameterized Trajectory Action
-Collaborating student: Guizhe Jin
+## Stability Enhanced DRL with Parameterized Trajectory Action
+Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*.
+
 
 ### **Motivation**
 When DRL directly control the vehicle's motion:

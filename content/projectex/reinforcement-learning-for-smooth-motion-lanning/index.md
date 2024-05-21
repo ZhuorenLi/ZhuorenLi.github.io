@@ -12,8 +12,11 @@ image:
 summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment.
 ---
 
-## **Motivation**
-**DRL directly control in stable and smooth performance**
+## Stability Enhanced Reinforcement Learning with Parameterized Trajectory Action
+Collaborating student: Guizhe Jin
+
+### **Motivation**
+When DRL directly control the vehicle's motion:
 - The output commands are easy to change continuously whent DRL agent directly generates the control command.
 - The control commands generated in real-time are prone to sudden changes in dynamically changing environments due to the lack of long-term motion planning.
 
@@ -24,7 +27,7 @@ summary: Deep reinforcement learning using parameterized trajectory action, for 
 - Enables RL agent to participate in trajectory generation, where the trajectory parameter action is used to generate future motion path that adapt to various scenes.
 - Realizes hybrid action output based on parameterized action space, hence the discrete and continuous actions have the optimal consistency.
 
-
+### **Some Reults**
 ![png](result-RLPTA.png)
 
 <!-- ## **Published paper:**

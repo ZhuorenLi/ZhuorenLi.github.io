@@ -27,17 +27,19 @@ image:
 
 
 ## **Safe Reinforcement Learning with risk evaluation and dangerous momry enhancement**
+Collaborating student: Ruolin Yang.
 
-## **Motivation**
+### **Motivation**
 **Limitation in Safety Performance:** Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.
 
 ![png](featured.png) 
 
-## **Highlights**
+### **Highlights**
 - Evaluate the future motion risk by projecting DRL behavior action into the feasible trajectory, while sorrunding vehicles' trajecotires are obtained from the prediction module.
 - Dangerous action will be prevented and the dangerous virtual experiences are recoreded to gain various valuable experience data.
 - Dangerous experiences are sampled with priority weight according their anticipated risk, enabling DRL agnet to learn a safer policy.
 
+### **Some Results**
 ![png](traincurve.png) 
 ![png](testTR.png) 
 

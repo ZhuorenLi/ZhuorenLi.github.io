@@ -1,18 +1,23 @@
 ---
 title: Deep Reinforcement Learning for Smooth Motion Planning
 date: '2024-05-01'
-# date_format: Jan 2006
-# date_start: '2022-09-01'
-# date_end: ''
-# summary: from 2021.09 - Now
+tags:
+- Reinforcement Learning
+- Smooth Driving
+image:
+  placement: 1
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  preview_only: true 
+summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment.
 ---
-
-Deep reinforcement learning using parameterized trajectory action, for flexible and smooth motion in complex environment.
 
 ## **Motivation**
 **DRL directly control in stable and smooth performance**
 - The output commands are easy to change continuously whent DRL agent directly generates the control command.
 - The control commands generated in real-time are prone to sudden changes in dynamically changing environments due to the lack of long-term motion planning.
+
+![png](featured.png)
 
 ## **Highlights**
 - Proposes a stability enhanced hierarchical reinforcement learning framework to achieve smooth and flexible driving behavior in dynamic traffic environment.

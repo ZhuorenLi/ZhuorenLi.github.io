@@ -26,7 +26,7 @@ image:
 ---
 
 
-**Safe Reinforcement Learning with risk evaluation and dangerous momry enhancement**
+## **Safe Reinforcement Learning with risk evaluation and dangerous momry enhancement**
 
 ## **Motivation**
 **Limitation in Safety Performance:** Deep reinforcement learning (DRL) has become a powerful method for autonomous driving while often lacking safety guarantees.

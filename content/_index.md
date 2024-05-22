@@ -146,12 +146,22 @@ sections:
             * Overall task management.
             * Multi-component coupled environmental risk characterization.
             * Motion Planning for Mixed Steering Vehicles.
-   
+
+        - title: Key Technology of Perception and Control in Cooperative Vehicle-Infrastructure System for Urban Public Transportation
+          company: National Key Research and Development Program of China
+          company_url: ''
+          location: 'Role: Core Participant'
+          date_start: '2023-01-01'
+          date_end: '2025-12-31'
+          description: |2-
+            Responsibilities include:
+            * Intelligent Decision-Making and Motion Planning in Vehicle End.
+
         - title: Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
           company: Science and Technology Commission of Shanghai
           company_url: ''
           # company_logo: org-gc
-          location: 'Role: Student Technical Director of Subproject of Intelligent Vehicle Control'
+          location: 'Role: Core Participant'
           date_start: '2021-08-01'
           date_end: '2024-07-30'
           # description: |2-

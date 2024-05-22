@@ -130,5 +130,5 @@ Greetings! I am Zhuoren Li. I'm a Ph.D. at Tongji University, affiliated with th
 
 Since 2020, I have been serving as the Student Director of the Intelligent Decision Research Group in TJU-IIV, mentoring 3 Ph.D. students and 11 master's students. I lead the team in studies on safe reinforcement learning, interactive behavior decision-making, and unstructured trajectory planning. Additionally, I have served as the technical director for 5 engineering projects.
 
-My research interest includes Safe Reinforcement Learning for Motion Planning of Autonomous Vehicles, Interactive Decision-Making, and Smooth Trajectory Planning, etc. I plan to finish my Ph.D. study in June 2025, and I'm looking for a post-doctoral position in the US.
+My research interest includes Safe Reinforcement Learning for Motion Planning of Autonomous Vehicles, Interactive Decision-Making, and Smooth Trajectory Planning, etc. I plan to finish my Ph.D. study in June 2025, and I'm looking for a post-doctoral position.
 {style="text-align: justify;"}

@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability"
 authors:
 - Zhuoren Li
 - Jia Hu
@@ -34,8 +34,8 @@ tags:
 featured: false
 
 links:
-- name: "DOIDOI"
-  url_pdf: https://ieeexplore.ieee.org/document/10328568
+- name: "PDF"
+  url_pdf: An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf
 #   url: ""
 # url_pdf: https://ieeexplore.ieee.org/document/10328568
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

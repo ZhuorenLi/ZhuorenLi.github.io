@@ -40,7 +40,7 @@ featured: false
 
 links:
 - name: "PDF"
-  url: uploads/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf # uploads/paper.pdf
+  url: An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf # uploads/paper.pdf
 #   url: ""
 # url_pdf: https://ieeexplore.ieee.org/document/10328568
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
@@ -75,12 +75,11 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# Abstract: 
+Autonomous driving requires efficient and safe decision making and motion planning in dynamic and uncertain environments. Future movement of surrounding vehicles is often difficult to represent. Besides, most existing studies consider decision making and planning/control separately. Both them may lead to the oscillation and unsafe for autonomous driving. This paper proposes an integrated framework of decision making and motion planning with oscillation-free capability. The proposed approach overcomes the shortcomings of autonomous driving for lane change/keeping maneuvers and is able to: i) make oscillation-free behavior decisions given biased prediction; ii) cut through in the traffic efficiently and safely when being in squeezed; iii) accelerate computation efficiency by building a state transfer model based on prediction uncertainty; iv) reduce the dissonance between decision-making and motion planning. A belief decision planner is designed with the uncertainty of the prediction trajectories. Lateral and longitudinal drivable corridors including the reference state and the related boundary constraints are built, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, the problem is formulated as an optimal control problem considering the vehicle dynamics and some soft constraints and the motion trajectory is solved by OSQP. Simulation and experimental tests are implemented to evaluate the feasibility and effectiveness of the proposed approach. Test results show that the integrated approach can make proper, safe and continuous decision and planning for autonomous vehicles and the calculation time is very low.

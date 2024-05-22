@@ -250,10 +250,33 @@ sections:
       subtitle: ''
       text: |-
         [1]	Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability. *IEEE Trans. Intell. Transp. Syst.*, early access, 2023. [PDF](publications/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568).
+
         [2]	Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319. [PDF](publications/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
-        [3]	Zhuoren Li, Lu Xiong Bo Leng. A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC. in *Proc. IEEE Int. Intell. Transp. Syst.*, 2022, pp. 937-944.
+
+        [3]	Zhuoren Li, Lu Xiong Bo Leng. A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC. in *Proc. IEEE Int. Intell. Transp. Syst.*, 2022, pp. 937-944. [PDF](publications/A_Unified_Trajectory_Planning_and_Tracking_Control_Framework_for_Autonomous_Overtaking_Based_on_Hierarchical_MPC.pdf), [DOI](https://ieeexplore.ieee.org/document/9922186).
+
+        [4]	Zhuoren Li, Bo Leng, Chagen Luo, et.al. A Real-time Path Planner based on Improved Tentacle algorithm for Autonomous Vehicles, in Proc. IEEE International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE), 2022, pp. 629-634. 
+
+        [5]	Zhuoren Li, Lu Xiong, Bo Leng, et.al. Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization. SAE Technical Papers, 2022-01-0085, 2022. 
+
+        [6]	Zhuoren Li, Lu Xiong, Dequan Zeng, et.al. Real-time Local Path Planning for Intelligent Vehicle combining Tentacle Algorithm and B-spline Curve . IFAC-PapersOnLine, 2021, 54(10): 51-58. 
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: Papers in Preparation
+      subtitle: ''
+      text: |-
+        [1] Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.” (Preparing to submit *IEEE Trans. Transp. Electrif.*)
+
+        [2] Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” (under review of *IEEE Trans. Intell. Veh.*)
+
+        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
+
+        [4] Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, “Interaction-Aware Safe Reinforcement Learning for Driving through Intersection”
+    design:
+    columns: '1'
   # - block: collection
   #   id: featured
   #   content:

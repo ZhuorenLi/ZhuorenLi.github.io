@@ -28,10 +28,10 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Trans. Intell. Transp. Syst.*, early access"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Autonomous driving requires efficient and safe decision making and motion planning in dynamic and uncertain environments. Future movement of surrounding vehicles is often difficult to represent. Besides, most existing studies consider decision making and planning/control separately. Both them may lead to the oscillation and unsafe for autonomous driving. This paper proposes an integrated framework of decision making and motion planning with oscillation-free capability. The proposed approach overcomes the shortcomings of autonomous driving for lane change/keeping maneuvers and is able to: i) make oscillation-free behavior decisions given biased prediction; ii) cut through in the traffic efficiently and safely when being in squeezed; iii) accelerate computation efficiency by building a state transfer model based on prediction uncertainty; iv) reduce the dissonance between decision-making and motion planning. A belief decision planner is designed with the uncertainty of the prediction trajectories. Lateral and longitudinal drivable corridors including the reference state and the related boundary constraints are built, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, the problem is formulated as an optimal control problem considering the vehicle dynamics and some soft constraints and the motion trajectory is solved by OSQP. Simulation and experimental tests are implemented to evaluate the feasibility and effectiveness of the proposed approach. Test results show that the integrated approach can make proper, safe and continuous decision and planning for autonomous vehicles and the calculation time is very low."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - POMDP
@@ -40,7 +40,7 @@ featured: false
 
 links:
 - name: "PDF"
-  url_pdf: uploads/Zhuoren_CV.pdf # uploads/paper.pdf
+  url_pdf: https://baidu.com # uploads/paper.pdf
 #   url: ""
 # url_pdf: https://ieeexplore.ieee.org/document/10328568
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

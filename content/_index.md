@@ -274,7 +274,7 @@ sections:
       filters:
         folders:
           - mainpublication
-        exclude_featured: true
+        # exclude_featured: true
     design:
       columns: '2'
       view: citation

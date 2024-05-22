@@ -1,12 +1,12 @@
 ---
 title: "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability"
-title: "Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability"
-# authors:
-# - Zhuoren Li
-# - Jia Hu
-# - Bo Leng
-# - Lu Xiong
-# - Zhiqiang Fu
+# title: "Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability"
+authors:
+- Zhuoren Li
+- Jia Hu
+- Bo Leng
+- Lu Xiong
+- Zhiqiang Fu
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

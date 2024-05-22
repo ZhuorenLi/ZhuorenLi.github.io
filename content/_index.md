@@ -267,10 +267,10 @@ sections:
     content:
       title: Main Publications
       id: mainpublication
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - mainpublication
@@ -278,6 +278,7 @@ sections:
     design:
       columns: '2'
       view: citation
+      
   - block: collection
     id: paperinpre
     content:

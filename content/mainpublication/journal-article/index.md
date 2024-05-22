@@ -33,10 +33,11 @@ tags:
 - optimization
 featured: false
 
-# links:
-# - name: ""
+links:
+- name: "DOIDOI"
+  url_pdf: https://ieeexplore.ieee.org/document/10328568
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/10328568
+# url_pdf: https://ieeexplore.ieee.org/document/10328568
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''

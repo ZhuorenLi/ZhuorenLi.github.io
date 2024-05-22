@@ -286,9 +286,9 @@ sections:
 
         [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
 
-        [4]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. Multi-Mode Evasion Assistance Control Method considering Human Driver Operation. IEEE Trans. Control Syst. Tech. (under review)
+        [4]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. Multi-Mode Evasion Assistance Control Method considering Human Driver Operation. (under review in *IEEE Trans. Control Syst. Tech.*)
 
-        [4] Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, “Interaction-Aware Safe Reinforcement Learning for Driving through Intersection”
+        [5] Zhuoren Li, Jia Hu, Bo Leng and Lu Xiong, “Motion Planning for Autonomous driving: A Survey of Deep Reinforcement Learning Approach.” (under writting)
     design:
       columns: '1'
   # - block: collection

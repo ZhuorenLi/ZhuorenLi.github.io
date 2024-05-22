@@ -249,7 +249,9 @@ sections:
       title: Main Publications
       subtitle: ''
       text: |-
-        [1]	Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability. IEEE Trans. Intell. Transp. Syst., early access, 2023. [PDF](uploads/Zhuoren_CV.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568)
+        [1]	Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability. *IEEE Trans. Intell. Transp. Syst.*, early access, 2023. [PDF](publications/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568).
+        [2]	Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319. [PDF](publications/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
+        [3]	Zhuoren Li, Lu Xiong Bo Leng. A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC. in *Proc. IEEE Int. Intell. Transp. Syst.*, 2022, pp. 937-944.
     design:
       columns: '1'
   # - block: collection
@@ -263,33 +265,35 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    content:
-      title: Main Publications
-      id: mainpublication
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
-      filters:
-        folders:
-          - mainpublication
-        # exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+
+  # - block: collection
+  #   content:
+  #     title: Main Publications
+  #     id: mainpublication
+  #     # text: |-
+  #     #   {{% callout note %}}
+  #     #   Quickly discover relevant content by [filtering publications](./publication/).
+  #     #   {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - mainpublication
+  #       # exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
       
-  - block: collection
-    id: paperinpre
-    content:
-      title: Paper in Preparation
-      filters:
-        folders:
-          - papaerinpre
-    design:
-      columns: '2'
-      # view: compact
-      view: citation
+  # - block: collection
+  #   id: paperinpre
+  #   content:
+  #     title: Paper in Preparation
+  #     filters:
+  #       folders:
+  #         - papaerinpre
+  #   design:
+  #     columns: '2'
+  #     # view: compact
+  #     view: citation
+
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics

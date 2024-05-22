@@ -268,7 +268,7 @@ sections:
         [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
         [4] Bo Leng, Ran Yu, Zhuoren Li*, Wei Han and Lu Xiong, “Interaction-Aware Safe Reinforcement Learning for Driving through Intersection”
     design:
-    columns: '1'
+      columns: '1'
   # - block: collection
   #   id: featured
   #   content:

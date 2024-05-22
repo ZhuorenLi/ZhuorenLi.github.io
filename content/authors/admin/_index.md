@@ -111,7 +111,7 @@ social:
   #   link: https://github.com/ZhuorenLi
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhuorenli-patrick/
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com.hk/citations?user=5HSKGBUAAAAJ

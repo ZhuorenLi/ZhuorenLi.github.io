@@ -1,5 +1,5 @@
 ---
-title: Projectex
+title: Researchex
 cms_exclude: true
 
 # View.

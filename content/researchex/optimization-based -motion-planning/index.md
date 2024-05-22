@@ -2,10 +2,10 @@
 title: Optimization-based Motion Planning
 date: '2023-06-01'
 summary: Smooth, stable and fast motion planning based on optimization-based approaches.
-categories: 
-- POMDP
-- MPC
-- HMPC
+# categories: 
+# - POMDP
+# - MPC
+# - HMPC
 tags:
 - Optimization
 - Smooth Driving

@@ -106,7 +106,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - projectex
+          - researchex
         author: ""
         category: ""
         tag: ""

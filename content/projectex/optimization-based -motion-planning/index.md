@@ -2,6 +2,10 @@
 title: Optimization-based Motion Planning
 date: '2023-06-01'
 summary: Smooth, stable and fast motion planning based on optimization-based approaches.
+categories: 
+- POMDP
+- MPC
+- HMPC
 tags:
 - Optimization
 - Smooth Driving
@@ -38,6 +42,7 @@ An integrated framework of decision-making and motion planning for autonomous dr
 
 Able to recat to deceleration in advanced in cut-in scenario with smoother acceleration and speed changes.
 In overtaking scenario, it able to overtake continuously with smoother lane-change driving way. It is also capable of avoiding possible lane-change failures and potential risks associated with reckless lane-change maneuver through uncertainty characterization.
+
 
 ## **Mixed Integer Programming with Hybrid Model Predictive Control**
 Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.

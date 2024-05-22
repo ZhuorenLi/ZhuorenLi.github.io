@@ -4,7 +4,8 @@ authors:
 - Zhuoren Li
 - Jia Hu
 - Bo Leng
-- et.al
+- Lu Xiong
+- Zhiqiang Fu
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -39,7 +40,7 @@ featured: false
 
 links:
 - name: "PDF"
-  url_pdf: https://zhuorenli.github.io/uploads/paper.pdf
+  url_pdf: uploads/Zhuoren_CV.pdf # uploads/paper.pdf
 #   url: ""
 # url_pdf: https://ieeexplore.ieee.org/document/10328568
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

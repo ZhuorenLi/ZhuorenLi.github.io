@@ -147,11 +147,11 @@ sections:
             * Multi-component coupled environmental risk characterization.
             * Motion Planning for Mixed Steering Vehicles.
    
-        - title: Binary mixed traffic behavior characteristics and collaborative paradigm
+        - title: Binary Mixed Traffic Behavior Characteristics and Collaborative Paradigm
           company: Science and Technology Commission of Shanghai
           company_url: ''
           # company_logo: org-gc
-          location: 'Role: Student Technical Director of Subproject'
+          location: 'Role: Student Technical Director of Subproject of Intelligent Vehicle Control'
           date_start: '2021-08-01'
           date_end: '2024-07-30'
           # description: |2-

@@ -20,8 +20,9 @@ image:
 - Since there is a high-dimensional state/action modeling and the solution process considers the motion evolution of others, both POMDP and game-theory are easy to fall into the dimensionality problem, which makes the algorithm difficult to solve.
 - Most existing studies consider decision making and planning/control separately, simple decision results may not be effectively utilized by planning, which tends to make the solution process of motion planning time-consuming, or the planning unable to reach decision expectations, trajectory shaking and even solving failure in dealing with complex scenarios
 
-An integrated framework of decision-making and motion planning for autonomous driving focus on the lane change/keeping maneuvers. Firstly, we design a belief POMDP decision planner while building the uncertainty of the prediction trajectories. Through the Multi-policy forward solution, getting the optimal decision action and the corresponding future states with the consideration of the uncertainty risk for surrounding vehicles. Then, based on the decision results of lateral semantic behavior and longitudinal continuous acceleration, we build drivable corridors including the reference state and the related boundary constraints, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, we consider the vehicle dynamics and introduce some soft constraints to solve the optimal motion trajectory.
 ![png](pomdpframe.png) 
+
+An integrated framework of decision-making and motion planning for autonomous driving focus on the lane change/keeping maneuvers. Firstly, we design a belief POMDP decision planner while building the uncertainty of the prediction trajectories. Through the Multi-policy forward solution, getting the optimal decision action and the corresponding future states with the consideration of the uncertainty risk for surrounding vehicles. Then, based on the decision results of lateral semantic behavior and longitudinal continuous acceleration, we build drivable corridors including the reference state and the related boundary constraints, which provide better suited information for planning to solve the optimal motion sequence more quickly and stably, and improve its consistency with decision module. Finally, we consider the vehicle dynamics and introduce some soft constraints to solve the optimal motion trajectory.
 ![png](corridor.png)   
 
 ### **Highlights**
@@ -35,7 +36,10 @@ An integrated framework of decision-making and motion planning for autonomous dr
 ![png](overtakeresult11.png)
 ![png](overtakeresult12.png)
 
-## Mixed Integer Programming with Hybrid Model Predictive Control
+Able to recat to deceleration in advanced in cut-in scenario with smoother acceleration and speed changes.
+In overtaking scenario, it able to overtake continuously with smoother lane-change driving way. It is also capable of avoiding possible lane-change failures and potential risks associated with reckless lane-change maneuver through uncertainty characterization.
+
+## **Mixed Integer Programming with Hybrid Model Predictive Control**
 Collaborating student: *Encheng Tu, 3rd-year Graduated Student*.
 
 ### **Motivation**
@@ -50,8 +54,7 @@ An integrated motion planning scheme for autonomous vehicles, which incorporates
 ### **Some Results**
 ![png](HMPCresult.png)
 
-
-## Trajectory Planning and Tracking Control Based on Hierarchical MPC 
+## **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
 
 A unified framework of trajectory planning and tracking control for autonomous overtaking, which is formed by hierarchical model predictive control, optimizing the lateral and longitudinal movement in two successive steps.
 

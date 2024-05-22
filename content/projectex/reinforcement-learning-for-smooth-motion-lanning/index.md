@@ -12,7 +12,7 @@ image:
 summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment.
 ---
 
-## Stability Enhanced DRL with Parameterized Trajectory Action
+## **Stability Enhanced DRL with Parameterized Trajectory Action**
 Collaborating student: *Guizhe Jin, 1st-year Gruaduated Student*.
 
 
@@ -32,6 +32,7 @@ Simultaneously considering the longterm discrete lane-change behavior goal and s
 
 ### **Some Reults**
 ![png](result-RLPTA.png)
+The proposed hierarchical Reinforcement Learning method with hybrid Parameterized Trajectory Actions (RL-PTA) greatly reduces the ocsillation of the acceleration and steering command, while ensuring maneuvering flexibility and driving efficiency.
 
 <!-- ## **Published paper:**
 1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319. -->

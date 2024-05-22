@@ -1,8 +1,5 @@
 ---
 title: 'Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint'
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Zhuoren Li
   - Bo Leng 
@@ -39,7 +36,7 @@ tags:
 - Risk Evaluation
 
 # Display this page in the Featured widget?
-featured: flase
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -52,13 +49,6 @@ links:
 #   focal_point: ''
 #   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

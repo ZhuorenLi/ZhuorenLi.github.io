@@ -249,7 +249,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        [1]	Zhuoren Li, Jia Hu, Bo Leng, et.al. An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability. IEEE Trans. Intell. Transp. Syst., early access, 2023.
     design:
       columns: '1'
   # - block: collection

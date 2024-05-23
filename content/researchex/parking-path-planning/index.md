@@ -34,8 +34,7 @@ AVP system for New Energy Vehicle Corporation, Jiangxi Jiangling Motors Group.
 
 Autonomous Parking of Tiev-Plus vehicl for China Future Challenge of Intelligent Vehicles 
 ![png](featuerd.png)
-<!-- ## **Published paper:**
-1. Zhuoren Li, Lu Xiong, Bo Leng et.al. Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint, in Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC), 2023, pp. 1313-1319. -->
 
-## **Paper in Preparation:**
+
+## **Published Paper:**
 1. Zhuoren Li, Lu Xiong, Bo Leng, et.al. Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization. SAE Technical Papers, 2022-01-0085, 2022. 

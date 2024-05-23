@@ -21,7 +21,7 @@ When DRL directly control the vehicle's motion:
 - The control commands generated in real-time are prone to sudden changes in dynamically changing environments due to the lack of long-term motion planning. -->
 
 The whole system is consisted of outdoor/indoor localization, parking slot perception, path planning and trakcing control.The overall framework is as following：
-![png](system.png)
+![png](featured.png)
 
 Firstly, the minimum road width required for one-step parking is calculated by considering the geometric relationship between the initial position of the vehicle and the parking slot. Secondly, the parking path is determined based on the collision constraints of the parking slot. Finally, we establish the vehicle kinematics error model and use the MPC algorithm to optimize the parking path.
 ![png](allalg.png)
@@ -33,7 +33,7 @@ AVP system for New Energy Vehicle Corporation, Jiangxi Jiangling Motors Group.
 ![png](jianglinproj.png)
 
 Autonomous Parking of Tiev-Plus vehicl for China Future Challenge of Intelligent Vehicles 
-![png](featured.png)
+![png](realtest.png)
 
 
 ## **Published Paper:**

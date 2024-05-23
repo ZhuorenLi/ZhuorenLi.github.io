@@ -1,7 +1,7 @@
 ---
 title: Optimization-based Motion Planning
 date: '2023-06-01'
-summary: Smooth, stable and fast motion planning based on optimization-based approaches.
+summary: Smooth, stable and fast motion planning based on optimization-based approaches. (From Sept 2021 to Jun 2023)
 # categories: 
 # - POMDP
 # - MPC

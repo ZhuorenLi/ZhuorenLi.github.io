@@ -9,7 +9,7 @@ image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: true 
-summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment.
+summary: Deep reinforcement learning using parameterized trajectory action, for flexible and smooth driving in complex environment. (From Dec 2023 to now)
 ---
 
 ## **Stability Enhanced DRL with Parameterized Trajectory Action**

@@ -5,7 +5,7 @@ date: "2024-05-01"
 # date_start: '2022-09-01'
 # date_end: ''
 # subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing.
+summary: Enhance the safety performance of DRL by prior-knowledge designed safe guidance in both training and testing. (From Sept 2022 to now)
 tags:
 - Reinforcement Learning
 - Safety

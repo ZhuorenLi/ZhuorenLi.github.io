@@ -62,6 +62,7 @@ An integrated motion planning scheme for autonomous vehicles, which incorporates
 - Able to integrate with external semantic decisions to achieve comprehensive optimization based on the external decisions.
 
 ### **Some Results**
+It allows for more efficient lane changing maneuvers in some scenarios wiith more rational lane-changing timing.
 ![png](HMPCresult.png)
 
 ## **Trajectory Planning and Tracking Control Based on Hierarchical MPC**
@@ -73,6 +74,7 @@ A unified framework of trajectory planning and tracking control for autonomous o
 - Safety corridor generation on ST-Graph with different behavior mode.
 
 ### **Some Reults**
+It is able to perform smoothly driving maneuvers such as cornering and overtaking in CARLA simulation.
 ![png](MPC1.png)
 ![png](MPC2.png)
 

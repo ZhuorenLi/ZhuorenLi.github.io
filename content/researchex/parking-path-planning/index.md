@@ -29,6 +29,9 @@ Firstly, the minimum road width required for one-step parking is calculated by c
 
 ### **This research havs supported many engineering projects**
 
+AVP system for SAIC Motor Corporation, Ltd. (mass-produced electric vehicle: Marvel X)
+![png](marvelx.png)
+
 AVP system for New Energy Vehicle Corporation, Jiangxi Jiangling Motors Group.
 ![png](jianglinproj.png)
 

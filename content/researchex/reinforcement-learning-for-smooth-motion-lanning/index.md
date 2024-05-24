@@ -1,6 +1,6 @@
 ---
 title: Deep Reinforcement Learning for Smooth Motion Planning
-date: '2024-05-01'
+date: '2024-05-02'
 tags:
 - Reinforcement Learning
 - Smooth Driving

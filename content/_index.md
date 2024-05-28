@@ -262,11 +262,11 @@ sections:
       text: |-
         [1]	Zhuoren Li, Jia Hu, Bo Leng, et al., "An Integrated of Decision Making and Motion Planning Framework for Enhanced Oscillation-Free Capability," *IEEE Trans. Intell. Transp. Syst.*, early access, 2023. [PDF](publications/An_Integrated_of_Decision_Making_and_Motion_Planning_Framework_for_Enhanced_Oscillation-Free_Capability.pdf), [DOI](https://ieeexplore.ieee.org/document/10328568).
 
-        [2]	Zhuoren Li, Lu Xiong, Bo Leng et al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2023, pp. 1313-1319. [PDF](publications/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
+        [2]	Zhuoren Li, Lu Xiong, Bo Leng et al., "Safe Reinforcement Learning of Lane Change Decision Making with Risk-Fused Constraint," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2023, pp. 1313-1319. [PDF](publications/Safe_Reinforcement_Learning_of_Lane_Change_Decision_Making_with_Risk-Fused_Constraint.pdf), [DOI](https://ieeexplore.ieee.org/document/10422331).
 
-        [3]	Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in *Proc. IEEE Int. Intell. Transp. Syst.*, 2022, pp. 937-944. [PDF](publications/A_Unified_Trajectory_Planning_and_Tracking_Control_Framework_for_Autonomous_Overtaking_Based_on_Hierarchical_MPC.pdf), [DOI](https://ieeexplore.ieee.org/document/9922186).
+        [3]	Zhuoren Li, Lu Xiong Bo Leng, "A Unified Trajectory Planning and Tracking Control Framework for Autonomous Overtaking Based on Hierarchical MPC," in *Proc. IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2022, pp. 937-944. [PDF](publications/A_Unified_Trajectory_Planning_and_Tracking_Control_Framework_for_Autonomous_Overtaking_Based_on_Hierarchical_MPC.pdf), [DOI](https://ieeexplore.ieee.org/document/9922186).
 
-        [4]	Zhuoren Li, Bo Leng, Chagen Luo, et al., "A Real-time Path Planner based on Improved Tentacle algorithm for Autonomous Vehicles," in *Proc. IEEE Int.l Conf. Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)*, 2022, pp. 629-634. [PDF](publications/A_Real-time_Path_Planner_based_on_Improved_Tentacle_Algorithm_for_Autonomous_Vehicles.pdf), [DOI](https://ieeexplore.ieee.org/document/9985832).
+        [4]	Zhuoren Li, Bo Leng, Chagen Luo, et al., "A Real-time Path Planner based on Improved Tentacle algorithm for Autonomous Vehicles," in *Proc. IEEE Int. Conf. Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)*, 2022, pp. 629-634. [PDF](publications/A_Real-time_Path_Planner_based_on_Improved_Tentacle_Algorithm_for_Autonomous_Vehicles.pdf), [DOI](https://ieeexplore.ieee.org/document/9985832).
 
         [5]	Zhuoren Li, Lu Xiong, Bo Leng, et al., "Path Planning Method for Perpendicular Parking Based on Vehicle Kinematics Model Using MPC Optimization," *SAE Technical Papers*, 2022-01-0085, 2022. [PDF](publications/Path_Planning_Method_for_Perpendicular_Parking_based_on_Vehicle_Kinematics_Model_using_MPC_Optimization.pdf), [DOI](https://saemobilus.sae.org/papers/path-planning-method-perpendicular-parking-based-vehicle-kinematics-model-using-mpc-optimization-2022-01-0085).
 
@@ -284,7 +284,7 @@ sections:
 
         [2] Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” (under review of *IEEE Trans. Intell. Veh.*)
 
-        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Int. Conf. Intell. Transp. Syst. (ITSC)*, 2024.
+        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.
 
         [4]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. Multi-Mode Evasion Assistance Control Method considering Human Driver Operation. (under review in *IEEE Trans. Control Syst. Tech.*)
 

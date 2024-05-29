@@ -123,9 +123,9 @@ sections:
       view: compact
       columns: '2'
   - block: Experience
-    content:
-      id: projects
-      title: Projects 
+    id: projects
+    content: 
+      title: Projects Experiences
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

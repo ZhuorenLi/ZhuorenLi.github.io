@@ -140,7 +140,7 @@ sections:
           company_url: ''
           location: ''
           date_start: '2020-01-01'
-          date_end: '2024-06-01'
+          date_end: '2024-05-31'
           description: |2-
             * Shanghai Municipal People's Government (SMPG), Oriental Excellence Program Youth Project, 2024.04-2024.05;
             * National Natural Science Foundation of China (NSFC), Key Progam, 2024.01-2024.03;

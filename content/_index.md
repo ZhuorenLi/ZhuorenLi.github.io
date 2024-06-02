@@ -135,6 +135,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Funding/Project proposal writing
+          company: ''
+          company_url: ''
+          location: ''
+          date_start: '2020-01-01'
+          date_end: '2024-06-01'
+          description: |2-
+            * Shanghai Municipal People's Government (SMPG), Oriental Excellence Program Youth Project, 2024.04-2024.05;
+            * National Natural Science Foundation of China (NSFC), Key Progam, 2024.01-2024.03;
+            * NSFC, General Program, 2023.01-2023.03;
+            * NSFC, Distinguished Young Scholars Grant, 2022.01-2022.07, 2022.12-2023.06;
+            * SMPG, Shanghai Science and Technology Progress First Award, 2022.09-2023.02;
+            * National Development and Reform Commission (NDRC), The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020.08-2021.04;
+            * NSFC, Young Scholars Grant, 2020.01-2020.03.
+
+
+            
+            
+        
         - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
           company: National Natural Science Foundation of China
           company_url: ''

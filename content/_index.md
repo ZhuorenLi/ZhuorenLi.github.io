@@ -147,6 +147,7 @@ sections:
             * NSFC, General Program, 2023.01-2023.03;
             * NSFC, Distinguished Young Scholars Grant, 2022.01-2022.07, 2022.12-2023.06;
             * SMPG, Shanghai Science and Technology Progress First Award, 2022.09-2023.02;
+            * Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021.12-2022.03;
             * National Development and Reform Commission (NDRC), The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020.08-2021.04;
             * NSFC, Young Scholars Grant, 2020.01-2020.03.
 

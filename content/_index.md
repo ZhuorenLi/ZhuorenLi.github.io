@@ -308,36 +308,36 @@ sections:
     design:
       columns: '1'
 
-- block: Experience
-    id: student
-    content: 
-      title: Student Guidance
-      date_format: Jan 2006
-      items:
-        - title: Puhang Xu - Lane-Change Behavior Decision using Safe DDQN Reinforcement Learning
-          company: 'working in Momenta, Suzhou, Shanghai'
-          company_url: ''
-          location: 'Partial guidance'
-          date_start: '2020-09-01'
-          date_end: '2022-03-31'
-          description: |2-
-            * Determine the research topic for his Master's thesis
-            * Assistance with code debugging during the RL training and testing.
-            * Thesis review.
-        
-        - title: Hongyu Xiao - POMDP-based Behavior Decision and Trajectory Optimiaztion  
-          company: National Natural Science Foundation of China
-          company_url: 'working in Momenta, Suzhou, Shanghai'
-          location: 'Partial guidance'
-          date_start: '2020-09-01'
-          date_end: '2022-03-31'
-          description: |2-
-            * Determine the research topic for his Master's thesis
-            * Assistance in deriving the POMDP model and configuring the CARLA environment.
-            * Thesis review.
+  # - block: Experience
+  #     id: student
+  #     content: 
+  #       title: Student Guidance
+  #       date_format: Jan 2006
+  #       items:
+  #         - title: Puhang Xu - Lane-Change Behavior Decision using Safe DDQN Reinforcement Learning
+  #           company: 'working in Momenta, Suzhou, Shanghai'
+  #           company_url: ''
+  #           location: 'Partial guidance'
+  #           date_start: '2020-09-01'
+  #           date_end: '2022-03-31'
+  #           description: |2-
+  #             * Determine the research topic for his Master's thesis
+  #             * Assistance with code debugging during the RL training and testing.
+  #             * Thesis review.
+          
+  #         - title: Hongyu Xiao - POMDP-based Behavior Decision and Trajectory Optimiaztion  
+  #           company: National Natural Science Foundation of China
+  #           company_url: 'working in Momenta, Suzhou, Shanghai'
+  #           location: 'Partial guidance'
+  #           date_start: '2020-09-01'
+  #           date_end: '2022-03-31'
+  #           description: |2-
+  #             * Determine the research topic for his Master's thesis
+  #             * Assistance in deriving the POMDP model and configuring the CARLA environment.
+  #             * Thesis review.
 
-    design:
-      columns: '2'
+  #     design:
+  #       columns: '2'
 
   # - block: collection
   #   id: featured

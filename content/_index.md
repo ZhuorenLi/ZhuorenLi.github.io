@@ -150,10 +150,6 @@ sections:
             * Ministry of Science and Technology, PRC, National Key Research and Development Program of China, 2021.12-2022.03;
             * National Development and Reform Commission (NDRC), The Breakthrough and Industrialization of Key Technologies for Intelligent Chassis, 2020.08-2021.04;
             * NSFC, Young Scholars Grant, 2020.01-2020.03.
-
-
-            
-            
         
         - title: High-Mobility Motion Planning and Control Research for Chassis-by-wire All-terrain Unmanned Vehicle with Hybrid-steering
           company: National Natural Science Foundation of China
@@ -312,33 +308,36 @@ sections:
     design:
       columns: '1'
 
-  - block: portfolio
+- block: Experience
     id: student
-    content:
-      title: Student
-      filters:
-        folders:
-          - student
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+    content: 
+      title: Student Guidance
+      date_format: Jan 2006
+      items:
+        - title: Puhang Xu - Lane-Change Behavior Decision using Safe DDQN Reinforcement Learning
+          company: 'working in Momenta, Suzhou, Shanghai'
+          company_url: ''
+          location: 'Partial guidance'
+          date_start: '2020-09-01'
+          date_end: '2022-03-31'
+          # description: |2-
+          #   * Determine the research topic for his Master's thesis
+          #   * Assistance with code debugging during the RL training and testing.
+          #   * Thesis review.
+        
+        - title: Hongyu Xiao - POMDP-based Behavior Decision and Trajectory Optimiaztion  
+          company: National Natural Science Foundation of China
+          company_url: 'working in Momenta, Suzhou, Shanghai'
+          location: 'Partial guidance'
+          date_start: '2020-09-01'
+          date_end: '2022-03-31'
+          # description: |2-
+          #   * Determine the research topic for his Master's thesis
+          #   * Assistance in deriving the POMDP model and configuring the CARLA environment.
+          #   * Thesis review.
+
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view:  citation # showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      columns: '2'
 
   # - block: collection
   #   id: featured

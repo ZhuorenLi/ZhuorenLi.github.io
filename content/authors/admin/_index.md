@@ -25,7 +25,7 @@ organizations:
   - name: School of Automotive Studies 
   - name: Tongji University, Shanghai, China 
     # url: https://www.stanford.edu/
-  - name: "Email: zrli_96@163.com"
+  - name: "Email: 1911055@tongji.edu.cn"
 # Short bio (displayed in user profile at end of posts)
 bio: Interest in safe learning for decision-making and control of autonoumous driving.
 

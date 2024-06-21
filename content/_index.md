@@ -300,7 +300,7 @@ sections:
 
         [2] Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” (under review of *IEEE Trans. Intell. Veh.*)
 
-        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.
+        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.)
 
         [4]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. Multi-Mode Evasion Assistance Control Method considering Human Driver Operation. (under review in *IEEE Trans. Control Syst. Tech.*)
 

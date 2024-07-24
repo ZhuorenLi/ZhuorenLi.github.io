@@ -255,15 +255,15 @@ sections:
       title: Papers in Preparation
       subtitle: ''
       text: |-
-        [1] Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better.” *IEEE Trans. Intell. Transp. Syst.* (under review)
+        [1] Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-        [2] Lu Xiong, Zhuoren Li, Danyang Zhong, et.al., “Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach.” * Chin. J. Mech. Eng.* (accepted with minor)
+        [2] Lu Xiong, Zhuoren Li, Danyang Zhong, et.al., “Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach,” * Chin. J. Mech. Eng.* (accepted with minor)
 
-        [3] Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Veh.* (under review)
+        [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.
+        
+        [4] Ruolin Yang, Zhuoren Li, Bo Leng, et.al.，“Convergent Harmonious Decision: Lane Changing in a more Traffic Friendly Way.” *IEEE Trans. Intell. Veh.* (under review)
 
-        [4] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action.” (under review in *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.)
-
-        [5]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. Multi-Mode Evasion Assistance Control Method considering Human Driver Operation. (under review in *IEEE Trans. Control Syst. Tech.*)
+        [5]	Bo Leng, Lu Xiong, Zhuoren Li*, et.al. “Multi-Mode Evasion Assistance Control Method considering Human Driver Operation,” (under review in *IEEE Trans. Control Syst. Tech.*)
 
         [6] Zhuoren Li, Jia Hu, Bo Leng and Lu Xiong, “Motion Planning for Autonomous driving: A Survey of Deep Reinforcement Learning Approach.” (under writting)
     design:

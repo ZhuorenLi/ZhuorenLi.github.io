@@ -257,7 +257,7 @@ sections:
       text: |-
         [1] Zhuoren Li, Jia Hu, Bo Leng, Lu Xiong, et.al., “Safety Enhanced Reinforcement Learning for Autonomous Driving: Dare to Make Mistakes to Learn Faster and Better,” *IEEE Trans. Intell. Transp. Syst.* (under review)
 
-        [2] Lu Xiong, Zhuoren Li, Danyang Zhong, et.al., “Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach,” * Chin. J. Mech. Eng.* (accepted with minor)
+        [2] Lu Xiong, Zhuoren Li, Danyang Zhong, et.al., “Rule-Guidance Reinforcement Learning for Lane Change Decision-making: A Risk Assessment Approach,” * Chin. J. Mech. Eng.* (accepted)
 
         [3] Guizhe Jin, Zhuoren Li, Bo Leng, Wie Han and Lu Xiong, “Stability Enhanced Hierarchical Reinforcement Learning for Autonomous Driving with Parameterized Trajectory Action,” *IEEE Intell. Transp. Syst. Conf. (ITSC)*, 2024.
         

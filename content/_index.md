@@ -52,7 +52,16 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      filters:
+        folders:
+          - news
+    design:
+      view: article-grid
+      columns: 1
 
   - block: collection
     id: researchexp
@@ -240,6 +249,8 @@ sections:
         * Vehicle-road-cloud Integrated Autonomous Driving Challenge, Third Prize, 2024.
 
         * High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024.
+
+        * SAE International Outstanding Technical Paper Award, SAE ICVS 2024.
     design:
       columns: '1'
   
@@ -333,16 +344,7 @@ sections:
   #     columns: '2'
   #     view: citation
       
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - news
-    design:
-      view: article-grid
-      columns: 1
+
 
   # - block: tag_cloud
   #   content:

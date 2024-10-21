@@ -31,4 +31,4 @@ main:
   - name: CV
 #    url: uploads/resume.pdf
     url: uploads/Zhuoren_Li_CV.pdf
-    weight: 60
+    weight: 70

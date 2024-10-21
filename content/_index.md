@@ -339,7 +339,7 @@ sections:
       title: Recent News
       filters:
         folders:
-          - event
+          - news
     design:
       view: article-grid
       columns: 1

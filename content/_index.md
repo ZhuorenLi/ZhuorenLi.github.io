@@ -333,16 +333,16 @@ sections:
   #     columns: '2'
   #     view: citation
       
-  # - block: collection
-  #   id: event
-  #   content:
-  #     title: Recent Events
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: event
+    content:
+      title: Recent Events
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
 
   # - block: tag_cloud
   #   content:

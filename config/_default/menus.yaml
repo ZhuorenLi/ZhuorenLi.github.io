@@ -19,6 +19,9 @@ main:
   - name: Paper in Preparation
     url: '#paperinpre'
     weight: 50
+  - name: News
+    url: '#news'
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60

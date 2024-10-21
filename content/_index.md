@@ -334,9 +334,9 @@ sections:
   #     view: citation
       
   - block: collection
-    id: event
+    id: news
     content:
-      title: Recent Events
+      title: Recent News
       filters:
         folders:
           - event

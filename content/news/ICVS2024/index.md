@@ -13,7 +13,7 @@ location: Shanghai, China
 #   country: United States
 
 summary: Our paper "Interaction-aware Deep Reinforcement Learning Approach based on Hybrid Parameterized Action Space for Autonomous Driving" has obtained the Outstanding Technical Paper Award.
-# abstract: 'It is pleasure to share our recent work about reinforcement learning motion planning for autonomous driving.'
+abstract: 'Congratulate myself for the SAE International Outstanding Technical Paper award in the 2024 INTELLIGENT AND CONNECTED VEHICLES SYMPOSIUM.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -63,7 +63,8 @@ image:
 #   - example
 ---
 ![png](award1.png) 
-Congratulate myself for the SAE International Outstanding Technical Paper award in the 2024 INTELLIGENT AND CONNECTED VEHICLES SYMPOSIUM.
+
+
 It is pleasure to share our recent work about reinforcement learning motion planning for autonomous driving.
 Our paper titled "Interaction-aware Deep Reinforcement Learning Approach based on Hybrid Parameterized Action Space for Autonomous Driving".
 Although it is not a very top-level academic conference, it's nice to get this small achievement and keep moving forward to contribute to the community in my own small way!

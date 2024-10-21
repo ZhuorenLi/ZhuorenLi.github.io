@@ -1,7 +1,7 @@
 ---
-title: "Achievement: SAE International Outstanding Technical Paper Award in ICVS 2024"
+title: "Communication with Prof. Gabor from University of Michigan"
 
-event: Communication with Prof. Gabor from University of Michigan
+event: Academic Communication Forum
 
 location: Tongji University, Shanghai, China
 # address:
@@ -49,7 +49,7 @@ image:
 # projects:
 #   - example
 ---
-![jpg](communication.png) 
+![png](communication.png) 
 
 It was pleasured to invite Prof. Gabor Orosz from the University of Michigan to the Intelligent Vehicle Research Institute of Tongji University, Shanghai, China. 
 

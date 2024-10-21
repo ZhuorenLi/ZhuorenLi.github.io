@@ -235,13 +235,15 @@ sections:
       title: Award
       subtitle: ''
       text: |2-
-        * World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022
-
+        * SAE International Outstanding Technical Paper Award, SAE ICVS 2024.
+        
+        * High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024.
+        
         * Vehicle-road-cloud Integrated Autonomous Driving Challenge, Third Prize, 2024.
 
-        * High-Level Academic Poster Award, China SAE Doctoral Student Academic Forum, 2024.
+        * World Artificial Intelligence Conference AI Driving Simulation Competition, Third Prize in the University Challenge Competition, 2022
 
-        * SAE International Outstanding Technical Paper Award, SAE ICVS 2024.
+        
     design:
       columns: '1'
   

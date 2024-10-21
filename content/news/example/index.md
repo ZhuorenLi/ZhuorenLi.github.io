@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -67,6 +67,7 @@ Congratulate myself for the SAE International Outstanding Technical Paper award 
 It is pleasure to share our recent work about reinforcement learning motion planning for autonomous driving.
 Our paper titled "Interaction-aware Deep Reinforcement Learning Approach based on Hybrid Parameterized Action Space for Autonomous Driving".
 Although it is not a very top-level academic conference, it's nice to get this small achievement and keep moving forward to contribute to the community in my own small way!
+---
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

@@ -49,7 +49,7 @@ image:
 # projects:
 #   - example
 ---
-![png](communication.png) 
+![jpg](communication.png) 
 
 It was pleasured to invite Prof. Gabor Orosz from the University of Michigan to the Intelligent Vehicle Research Institute of Tongji University, Shanghai, China. 
 

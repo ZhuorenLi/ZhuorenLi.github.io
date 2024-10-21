@@ -52,16 +52,7 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - news
-    design:
-      view: article-grid
-      columns: 1
+  
 
   - block: collection
     id: researchexp
@@ -344,7 +335,16 @@ sections:
   #     columns: '2'
   #     view: citation
       
-
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      filters:
+        folders:
+          - news
+    design:
+      view: article-grid
+      columns: 1
 
   # - block: tag_cloud
   #   content:

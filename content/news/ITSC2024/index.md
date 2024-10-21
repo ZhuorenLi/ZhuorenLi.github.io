@@ -62,6 +62,7 @@ image:
 # projects:
 #   - example
 ---
+![png](all.jpg) 
 Thrilled to attend ITSC again! It was a wonderful opportunity to exchange ideas and engage in discussions with new friends in Edmonton.
 
 Besides, congratulations to Dr. Zhu from our Lab for receiving the Best Paper Award! 

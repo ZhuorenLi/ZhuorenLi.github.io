@@ -62,15 +62,11 @@ image:
 # projects:
 #   - example
 ---
-![png](award1.png) 
+Thrilled to attend ITSC again! It was a wonderful opportunity to exchange ideas and engage in discussions with new friends in Edmonton.
 
-Congratulate myself for the SAE International Outstanding Technical Paper Award in the 2024 INTELLIGENT AND CONNECTED VEHICLES SYMPOSIUM.
+Besides, congratulations to Dr. Zhu from our Lab for receiving the Best Paper Award! 
 
-It is pleasure to share our recent work about reinforcement learning motion planning for autonomous driving.
-
-Our paper titled "Interaction-aware Deep Reinforcement Learning Approach based on Hybrid Parameterized Action Space for Autonomous Driving", which was completed by me and two master's students in a month's time!!
-
-Although it is not a very top-level academic conference, it's nice to get this small achievement and keep moving forward to contribute to the community in my own small way!
+Let’s work together for next year’s graduation!
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
